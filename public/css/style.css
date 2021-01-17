@@ -1,0 +1,26 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    background-color: #222;
+    color: white;
+    text-align: center;
+ }
+ form{
+    width: 90vw;
+ }
+ .form-control {
+    display: block;
+    width: 15vw;
+ }
+
+ .btn-primary {
+   color: #fff;
+   background-color: green;
+   border-color: black;
+}
+.btn-primary:hover{
+   color: #fff;
+   background-color: rgb(0, 97, 0);
+}
